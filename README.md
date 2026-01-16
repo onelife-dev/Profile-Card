@@ -1,6 +1,6 @@
 # Web Developer Profile Card
 
-This project is a simple and responsive *Web Developer Profile Card* built using *HTML, CSS, and JavaScript*.  
+My project is a simple and responsive *Web Developer Profile Card* built using *HTML, CSS*.  
 It demonstrates layout organization, reusable CSS variables, hover effects, and basic interactivity.
 
 ## 🚀 Features
@@ -9,15 +9,13 @@ It demonstrates layout organization, reusable CSS variables, hover effects, and 
 - CSS Variables for easy theme customization
 - Gradient header with profile image
 - Hover effects on buttons and profile photo
-- Click on the profile image to view it in full screen (modal)
 - Social media icons with external links
 - Clean and organized code structure
 
 ## 🛠️ Technologies Used
 
 - HTML5  
-- CSS3 (Flexbox, Variables, Gradients)  
-- JavaScript (DOM manipulation)  
+- CSS3 (Flexbox, Variables, Gradients)   
 - Font Awesome (Icons)
 
 ## 📂 Project Structure
@@ -26,7 +24,7 @@ It demonstrates layout organization, reusable CSS variables, hover effects, and 
 /project
  ├── index.html
  ├── style.css
- └── script.js (optional if separated)
+ └── script.js (optional the use)
 
 
 ## ▶️ How to Run
